@@ -1,0 +1,9 @@
+flag{tar_Meow}
+username: wendy
+password: wendyP@ssw0rd
+
+Change User !
+su
+登入之後確認一下系統上的使用者們
+
+
